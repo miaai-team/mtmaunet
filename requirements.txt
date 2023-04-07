@@ -1,0 +1,4 @@
+torch>=1.6
+numpy>=1.17
+accelerate>=0.5.0
+monai>=1.0
